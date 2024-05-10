@@ -8,6 +8,18 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
 - **Utvikler:** Kenneth Heia
 
 ## 2. Innholdsfortegnelse
+ - **3. Introduksjon**
+ - **4. Målgruppe**
+ - **5. Målsetninger**
+ - **6. Nettside og Innhold**
+ - **7. Tekniske Krav**
+ - **8. Brukeropplevelse (UX)**
+ - **9. Wireframes og Prototyper**
+ - **10. Arbeidsplan og Milepæler**
+ - **11. Lanseringsplan og Markedsføringsstrategi**
+ - **12. Testing og QA**
+ - **13. Kontinuerlig Forbedring**
+ - **14. Referanser**
 ## 3. Introduksjon
   - **Bakgrunn:** Kort om Total Bygg AS, dens historie og verdier.
   - **Formål:** Hovedmålene for nettsiden og hvorfor den utvikles.
