@@ -40,6 +40,30 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
     - **Spesifikasjoner:** Bilder og tekst. Dokumentert utdanning og serifiseringer.
   - **Tjenester**
     - **Innhold:** Beskrivelse av tjenester, eksempelprosjekter, utleie av utstyr og maskiner, spesifikke tilbud som for eks. god priser på elementbygde småbygg (garasjer, naust, boder, osv..)
+    - **Spesialisering:** Oppgaver eller jobber som kan standariseres og gi en fin og oversiktlig beskrivelse med eksempel og god brukervennlighet.
+     - **Vanlige Oppgaver:**
+      - Ved store forespørseler kan det opprettes tilbud og enkel oversikt på veiledende priser knyttet til disse oppgavene.
+        - Vindusbytte
+        - Dørbytte
+        - Husvask og maling
+        -  
+     - **Veranda frittståendei eller i tilknyttning med bolig.**
+      - Minigraver som kan enkelt tilpasse grunn for plassering av søylepunkter med markisolasjon under. Lage former og maler for enkel fylling med betong når det blir masser tilovers fra støpinger eller hva Bjerka Sandindustri får overskuddsmasser.
+      - Vise eksempler med bilder og illustrasjoner for løsninger og oppbygging av veranda med rekkverk og trapp.
+      - DIY tegninger og veiledninger i form av selvlaget bruksanvisninger eller video. Dette kan være et tilbud for mer kunder som er mer handy men ønsker tips og veiledning. Kan tan en fornuftig sum for tilgang på disse opplysningene. Dette vil sannsynligvis føre til mersalg av produkter knyttet til prosjektet kunden skal ta seg ut på.
+      - Ha ansatte som kan ta ansvar og få styr litt selv på disse type prosjekter (f.eks. Lars Morgan for graving sammen med Ole Morten, hele jobben kan bli utført som fastpris med akkord for ansatte som tar ansvar og fullfører prosessen)
+     - **Garasjer, Bod, Naust**
+      - Tilby standard elementpakker for montering. Eventuellt ferdig bygd på vårt lager og plassering med kranbil.
+      - Disse pakketilbudene kan tilpasses som ønsket mot økt pris.
+      - Kan leveres "Nøkkelferdig" eller for kunden å montere selv.
+      - Støping eller på fundament.
+      - DIY plantegninger og veiledning.
+     - **Søppelskur, Bussskur, Postkassestativ**
+      - Tilby standardpakker ferdig og levert.
+      - Kan tilpasses mot økt pris.
+      - Med navneskilt eller graveringer. (Hasvo)
+      - Støping eller på fundament.
+      - DIY plantegninger og veiledning.
     - **Spesifikasjoner:** Bilder og tekst. Tegninger og veiledende priser.
   - **Portfølje**
     - **Innhold:** Bildegalleri, før- og etter-bilder, tidligere velykkede prosjekter
