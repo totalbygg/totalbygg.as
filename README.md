@@ -12,14 +12,15 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
  - **4. Målgruppe**
  - **5. Målsetninger**
  - **6. Nettside og Innhold**
- - **7. Tekniske Krav**
- - **8. Brukeropplevelse (UX)**
- - **9. Wireframes og Prototyper**
- - **10. Arbeidsplan og Milepæler**
- - **11. Lanseringsplan og Markedsføringsstrategi**
- - **12. Testing og QA**
- - **13. Kontinuerlig Forbedring**
- - **14. Referanser**
+ - **7. Tjenester**
+ - **8. Tekniske Krav**
+ - **9. Brukeropplevelse (UX)**
+ - **10. Wireframes og Prototyper**
+ - **11. Arbeidsplan og Milepæler**
+ - **12. Lanseringsplan og Markedsføringsstrategi**
+ - **13. Testing og QA**
+ - **14. Kontinuerlig Forbedring**
+ - **15. Referanser**
 ## 3. Introduksjon
   - **Bakgrunn:** Kort om Total Bygg AS, dens historie og verdier.
   - **Formål:** Hovedmålene for nettsiden og hvorfor den utvikles.
@@ -38,7 +39,7 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
   - **Om oss**
     - **Innhold:** Bedriftens historie, punkter av betydning, ansatte og roller i driften, sertifiseringer
     - **Spesifikasjoner:** Bilder og tekst. Dokumentert utdanning og serifiseringer.
-  - **Tjenester**
+## 7. **Tjenester**
     - **Innhold:** Beskrivelse av tjenester, eksempelprosjekter, utleie av utstyr og maskiner, spesifikke tilbud som for eks. god priser på elementbygde småbygg (garasjer, naust, boder, osv..)
     - **Spesialisering:** Oppgaver eller jobber som kan standariseres og gi en fin og oversiktlig beskrivelse med eksempel og god brukervennlighet.
      - **Vanlige Oppgaver:**
@@ -46,7 +47,6 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
         - Vindusbytte
         - Dørbytte
         - Husvask og maling
-        -  
      - **Veranda frittståendei eller i tilknyttning med bolig.**
       - Minigraver som kan enkelt tilpasse grunn for plassering av søylepunkter med markisolasjon under. Lage former og maler for enkel fylling med betong når det blir masser tilovers fra støpinger eller hva Bjerka Sandindustri får overskuddsmasser.
       - Vise eksempler med bilder og illustrasjoner for løsninger og oppbygging av veranda med rekkverk og trapp.
@@ -77,29 +77,29 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
   - **Blogg/Nyheter**
     - **Innhold** Artikler om trender, DIY-tips, prosjekter, være innvolvert i samfunnet (stand på 17. mai, støtte fotball cup, hjelp med virksomheter), overtagelse av bedriften, ny ledelse.
     - **Spesifikasjoner** Tekst, bilder
-## 7. Tekniske Krav
+## 8. Tekniske Krav
   - **Plattform:** Github, Facebook, Totalbygg.as, Instagram
   - **Responsivt Design:** Optimalisert for desktop, mobil og nettbrett.
   - **SEO:** On-page SEO, søkemotoroptimalisering, metatagger, schema markup.
   - **Ytelse:** Optimaliserte bilder, caching, rask lastetid.
   - **Sikkerhet:** SSL-sertifikat, sikkergetsplugins.
-## 8. Brukeropplevelse (UX)
+## 9. Brukeropplevelse (UX)
   - **Navigasjonsstruktur:** Enkel og intuitiv navigasjon.
   - **Designstil:** Reflekterer merkevaren, sammenhengende stil.
   - **Typografi og Farger** Fonter, fargepalett.
-## 9. Wireframes og Prototyper
+## 10. Wireframes og Prototyper
   - Legg ved eller beskriv wireframes og prototyper for sidene.
-## 10. Arbeidsplan og Milepæler
+## 11. Arbeidsplan og Milepæler
   - Tidslinje for utviklingen
   - Milepæler som f.eks. ferdigstillelse av wireframes, første prototype, testing osv.
-## 11. Lanseringsplan og Markedsføringsstrategi
+## 12. Lanseringsplan og Markedsføringsstrategi
   - **Lansering:** Soft Launch og full lansering. Lansere og få med ny ledelse og planer for fremtiden.
   - **Markedsføring:** Sosiale medier, Google Ads, SEO, e-postmarkedsføring.
-## 12. Testing og QA
+## 13. Testing og QA
   - Plan for testing aav funksjonalitet, kompatibilitet og ytelse.
   - Testmiljø og metoder.
-## 13. Kontinuerlig Forbedring
+## 14. Kontinuerlig Forbedring
   - Analysering av data fra Google Analytics eller lignende verktøy.
   - Plan for optimalisering basert på analyser.
-## 14. Referanser
+## 15. Referanser
   - Lenker til inspirasjon, ressurser og andre relevante dokumenter.
