@@ -40,8 +40,8 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
     - **Innhold:** Bedriftens historie, punkter av betydning, ansatte og roller i driften, sertifiseringer
     - **Spesifikasjoner:** Bilder og tekst. Dokumentert utdanning og serifiseringer.
 ## 7. **Tjenester**
-    - **Innhold:** Beskrivelse av tjenester, eksempelprosjekter, utleie av utstyr og maskiner, spesifikke tilbud som for eks. god priser på elementbygde småbygg (garasjer, naust, boder, osv..)
-    - **Spesialisering:** Oppgaver eller jobber som kan standariseres og gi en fin og oversiktlig beskrivelse med eksempel og god brukervennlighet.
+   - **Innhold:** Beskrivelse av tjenester, eksempelprosjekter, utleie av utstyr og maskiner, spesifikke tilbud som for eks. god priser på elementbygde småbygg (garasjer, naust, boder, osv..)
+     - **Spesialisering:** Oppgaver eller jobber som kan standariseres og gi en fin og oversiktlig beskrivelse med eksempel og god brukervennlighet.
      - **Vanlige Oppgaver:**
       - Ved store forespørseler kan det opprettes tilbud og enkel oversikt på veiledende priser knyttet til disse oppgavene.
         - Vindusbytte
