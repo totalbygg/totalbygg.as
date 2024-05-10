@@ -44,10 +44,10 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
      - **Spesialisering:** Oppgaver eller jobber som kan standariseres og gi en fin og oversiktlig beskrivelse med eksempel og god brukervennlighet.
      - **Vanlige Oppgaver:**
       - Ved store forespørseler kan det opprettes tilbud og enkel oversikt på veiledende priser knyttet til disse oppgavene.
-        - Vindusbytte
-        - Dørbytte
-        - Husvask og maling
-     - **Veranda frittståendei eller i tilknyttning med bolig.**
+      - Vindusbytte
+      - Dørbytte
+      - Husvask og maling
+     - **Veranda frittstående eller i tilknyttning med bolig.**
       - Minigraver som kan enkelt tilpasse grunn for plassering av søylepunkter med markisolasjon under. Lage former og maler for enkel fylling med betong når det blir masser tilovers fra støpinger eller hva Bjerka Sandindustri får overskuddsmasser.
       - Vise eksempler med bilder og illustrasjoner for løsninger og oppbygging av veranda med rekkverk og trapp.
       - DIY tegninger og veiledninger i form av selvlaget bruksanvisninger eller video. Dette kan være et tilbud for mer kunder som er mer handy men ønsker tips og veiledning. Kan tan en fornuftig sum for tilgang på disse opplysningene. Dette vil sannsynligvis føre til mersalg av produkter knyttet til prosjektet kunden skal ta seg ut på.
