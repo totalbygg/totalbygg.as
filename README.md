@@ -27,7 +27,9 @@ Dette prosjektet angår opprettelse og utvikling av nettside for tømrerbedrifte
 ## 4.Målgruppe
   - Detaljerte beskrivelser av målgruppen(e) vi ønsker å nå.
   - Privatpersoner som ønsker små oppdrag med renovering og diverse på hjem.
-  - Oppføring av nye boliger.
+  - Ny etablerere av nye boliger.
+  - Moderne funksjoner på nettside for yngre voksne.
+  - Eldre som ønsker enkel brukervennlighet.
   - Bedrifter som ønsker å samarbeide på prosjekter, store og små.
 ## 5. Målsetninger
   - **Primære mål:** Øke forespørseler og bygge omdømme.
